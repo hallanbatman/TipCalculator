@@ -2,6 +2,7 @@
 My third native Android application developed using Kotlin language to calculate the tip in a restaurant bill and show the result on the same screen without using a button.
 
 <img src="https://github.com/user-attachments/assets/c878803a-fac9-4280-a7ca-d1fe7ec32e5b" width=350/>
+<img src="https://github.com/user-attachments/assets/45ee47d5-f985-4963-a1cd-282c7f01f485" width=350/>
 
 ## Technologies
 - Activity
